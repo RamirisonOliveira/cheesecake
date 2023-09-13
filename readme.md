@@ -34,6 +34,4 @@ Você pode acessar o app do projeto através do link - [Visite o projeto online]
 
 Esse projeto está sob a licença ROL.
 
----
-
 Feito by Ramirison Oliveira(https://github.com/RamirisonOliveira)
